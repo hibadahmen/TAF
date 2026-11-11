@@ -29,7 +29,9 @@
 </style>
 <div class="liens">
     <a href="/epreuve">Gestion des épreuves</a>
-    <a href="/matiere">Gestion des matières</a>
+    <a href="/matieres">Gestion des matières</a>
+    <a href="/login">auth</a>
+    <a href="/register">register</a>
 </div>
 </body>
 </html>
